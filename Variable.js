@@ -1,5 +1,5 @@
 /*
-Data Types in Js 
+variable Types in Js 
 
 */
 // const
