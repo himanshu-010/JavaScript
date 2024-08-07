@@ -1,3 +1,14 @@
+// IN this time discuss about string
+
+"hello" + "World"
+// it's a simple life😏😏😏
+// "hello" + "World" is a string literal, it's a string of characters
+// when you use the "+" operator on two string literals, it concatenates them together
+// so "hello" + "World" is equal to "helloWorld"
+
+// but best prectice in use the variable decliers 
+const Name = "Himasnhu " 
+const RepoCount = 78;
 // here we are using the variable decliers to store the string and number values
 console.log(Name + RepoCount); // it's a old method 
 // here we are using the "+" operator to concatenate the string and number together
@@ -29,3 +40,25 @@ let UserID = "7030himanshuSharma"
 console.log(UserID.substring(0,5));
 // here we are using the substring method to get the first 4 letter of the string
 //5 is not included only 0-4 
+
+//same like you want  print 5 last values in this UserID to use spice function
+console.log(UserID.slice(-4));
+
+// negetive values in this method easy to use in last value and count last number in values
+
+
+//***************** Let's discuss about remove spaces in String */
+// remove space in stirng use trim() funstion
+
+const Space = "   Hii     "
+
+console.log(Space.trim());
+
+
+
+
+
+
+
+
+
