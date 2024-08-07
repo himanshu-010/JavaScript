@@ -54,7 +54,8 @@ const Space = "   Hii     "
 
 console.log(Space.trim());
 
-
+// here we are using the trim method to remove the spaces from the string
+// trim function two attribute end or start 
 
 
 
