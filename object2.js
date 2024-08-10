@@ -27,3 +27,24 @@ const mainOneUser = {...facebookUser, ...InstagramUser}
 console.log(mainOneUser);
 
 
+// ****************************************************************
+
+//Destructure in object
+
+const amity = {
+    name: "Himanshu Sharma",
+    Enrollment_NO : "A78349274",
+    section : "A",
+    LT : 409
+
+}
+console.log(amity);
+//Destructure the object 
+const {Enrollment_NO : RollNO} = amity;
+// in this code destructure the Enrollment_NO to RollNO;
+
+console.log(`Change to my Enrollment_No to ROllNO ${RollNO}`);
+// ****************************************************************
+
+
+
