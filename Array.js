@@ -3,7 +3,7 @@
 // const myArry = ["HImanshu", 78, 67, 684, 5335];
 // console.log(myArry);
 // it's a basic Method 
-// another method is 
+// another method is   
 // 
 
 
